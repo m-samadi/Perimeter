@@ -5,9 +5,7 @@
 
 Developer: Mohammad Samadi Gharajeh
 Website:   http://www.msamadi.com
-Email:     m.samadi@ieee.org
-           mhm.samadi@gmail.com
-	   info@msamadi.com
+Email:     mhm.samadi@gmail.com
 
 *********************************************************************************************
 *********************************************************************************************
