@@ -3,4 +3,4 @@ This program is the simulation process of the paper entitled "To Measure the Per
 ## Language and IDE
 The program is developed with C++ codes in Dev-C++ 4.9.9.2.
 ## Requirement
-Please setup the library "graphics.h" in Dev-C++, completely.
+The library "graphics.h" should be configured in Dev-C++.
